@@ -7810,7 +7810,6 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138772266.mp4
 ############## SÉRIES | DIVERSAS  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | DIVERSAS" group-title="
 
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/74955.avi
 #EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/4ejs8ls4WqD3Gn373LpZrStGLyQ.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E01
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73951.mp4
 #EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/1xrn9z7NpbQjsRQRhPRZedOuscY.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E02
@@ -13492,4 +13491,3 @@ https://play.prod.gcp.vix.services/nha-benta_pt/nha-benta_pt_1-1/play_v1_hls_108
 https://play.prod.gcp.vix.services/coffee-drinks_pt/coffee-drinks_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/GPvIj1ySfvU/maxresdefault.jpg"group-title="ReceitasCulinaria",Como fazer café decorado como um profissional
 https://play.prod.gcp.vix.services/coffee-decoration_pt/coffee-decoration_pt_1-1/play_v1_hls_1080p.m3u8
-
